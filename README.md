@@ -38,7 +38,7 @@ Another method is to setup callbacks for each section.
     
    
 ## CPAN Installation (recommended)
-The easiest way to install a Perl module is to use span. Run this in the command prompt to install directly from CPAN (may need root priviledges):
+The easiest way to install a Perl module is to use cpan. Run this in the command prompt to install directly from CPAN (may need root priviledges):
 
 	$ perl -MCPAN -e 'install Nmap::Parser'
 	# or cpan bin
